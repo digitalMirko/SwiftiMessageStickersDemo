@@ -1,6 +1,41 @@
 {
   "stickers" : [
-
+    {
+      "filename" : "CrackingUpFace.sticker"
+    },
+    {
+      "filename" : "DogWithTongue.sticker"
+    },
+    {
+      "filename" : "FiveHigh.sticker"
+    },
+    {
+      "filename" : "MonkeyNoSee.sticker"
+    },
+    {
+      "filename" : "MoonCat.sticker"
+    },
+    {
+      "filename" : "PinkHeart.sticker"
+    },
+    {
+      "filename" : "RainbowCrown.sticker"
+    },
+    {
+      "filename" : "SmilingAngel.sticker"
+    },
+    {
+      "filename" : "ThinkingFace.sticker"
+    },
+    {
+      "filename" : "DancingSkeleton.sticker"
+    },
+    {
+      "filename" : "OutOfControl.sticker"
+    },
+    {
+      "filename" : "PinkDancingBones.sticker"
+    }
   ],
   "info" : {
     "version" : 1,
